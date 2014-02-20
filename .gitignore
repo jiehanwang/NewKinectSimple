@@ -53,6 +53,7 @@ build/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
+opencv_*.dll
 
 *_i.c
 *_p.c
